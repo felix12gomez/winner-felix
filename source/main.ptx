@@ -6,7 +6,7 @@
 
   <book xml:id="Great-book-PDE">
     <title>Partial Differential Equations in Brazil</title>
-    <subtitle>An exercise to get you started</subtitle>
+    <subtitle>Semilinear Equations: Exitence and Uniqueness</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
